@@ -1,6 +1,6 @@
 # Pokédex
 
-![pokedex](pokedex.gif)
+![pokedex](./assets/pokedex.gif)
 
 Pokédex contendo todos os pokémons das 3 primeiras gerações.
 
