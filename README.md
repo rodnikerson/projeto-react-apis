@@ -25,12 +25,12 @@ Pokédex contendo todos os pokémons das 3 primeiras gerações.
 ![Detalhes](./assets/3.PNG)
 
 ## Demonstração
-[Link da demonstração](www.google.com)
+[Link da demonstração](https://precious-starlight-78cd5a.netlify.app/)
 
 ## Como rodar este projeto
 ```bash
 # Clone este repositório
-$ git clone 'link do repositório'
+$ git clone https://github.com/rodnikerson/projeto-react-apis
 
 # Acesse a pasta do projeto no seu terminal
 $ cd projeto-final-front
