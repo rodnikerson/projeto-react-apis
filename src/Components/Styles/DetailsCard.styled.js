@@ -26,8 +26,13 @@ export const FrontSprite = styled.img`
     height: 280px;
 
     @media (max-width: 1360px) {
-        width: 180px;
-        height: 180px;
+        width: 175px;
+        height: 175px;
+    }
+
+    @media (min-width: 1360px) and (max-width: 1860px) {
+        width: 190px;
+        height: 190px;
     }
 `
 
@@ -36,8 +41,13 @@ export const BackSprite = styled.img`
     height: 280px;
 
     @media (max-width: 1360px) {
-        width: 180px;
-        height: 180px;
+        width: 175px;
+        height: 175px;
+    }
+
+    @media (min-width: 1360px) and (max-width: 1860px) {
+        width: 190px;
+        height: 190px;
     }
 `
 
@@ -66,6 +76,10 @@ export const Stat = styled.div`
 export const Name = styled.p`
     font-size: 0.675rem;
     width: 35%;
+
+    @media (min-width: 1360px) and (max-width: 1860px) {
+        font-size: 0.575rem;
+    }
 
     @media (max-width: 1360px) {
         font-size: 0.55rem;
@@ -122,7 +136,8 @@ export const Moves = styled.div`
     background: white;
     border-radius: 10px;
 
-    @media (min-width: 1560px) and (max-width: 1860px) {
+    @media (min-width: 1360px) and (max-width: 1860px) {
+        height: 70%;
         width: 40%;
     }
 
@@ -146,6 +161,11 @@ export const Move = styled.span`
     gap: 17px;
     background: #ECECEC;
     color: black;
+
+    @media (min-width: 1360px) and (max-width: 1860px) {
+        height: 10%;
+        width: 75%;
+    }
 
     @media (max-width: 1360px) {
         width: 80%;
