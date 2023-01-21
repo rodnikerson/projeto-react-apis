@@ -44,6 +44,7 @@ export const SentenceAndPokemonsContainer = styled.main`
         display: flex;
         flex-direction: column;
         align-items: center;
+        justify-items: 
     }
 
     @media (min-width: 1360px) and (max-width: 1860px) {
@@ -70,6 +71,5 @@ export const PokemonsContainer = styled.div`
     @media (min-width: 1360px) and (max-width: 1860px) {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: auto;
-        justify-items: center;
     }
 `
