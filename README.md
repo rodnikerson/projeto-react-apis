@@ -33,7 +33,7 @@ Pokédex contendo todos os pokémons das 3 primeiras gerações.
 $ git clone https://github.com/rodnikerson/projeto-react-apis
 
 # Acesse a pasta do projeto no seu terminal
-$ cd projeto-final-front
+$ cd projeto-react-apis
 
 # Instale as dependências
 $ npm i
