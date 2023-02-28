@@ -49,4 +49,4 @@ $ npm start
 4. Context API
 5. Styled-Components
 
-Feito com muito carinho por **Rodolpho Nikerson** :)
+Feito com muito carinho por **Rodolpho Nikerson** :{c:gray}){/c}
